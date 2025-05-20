@@ -116,12 +116,6 @@ Each query is commented for clarity and can be run independently.
 
 This project is provided for educational purposes. You are free to use, modify, and distribute it as you wish.
 
----
-
-## Credits
-
-Created by [Your Name].  
-Inspired by real-world bookstore data and designed for SQL learners.
 
 ---
 
